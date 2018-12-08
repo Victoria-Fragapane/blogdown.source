@@ -11,7 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
+    "Animals",
+    "Plants",
+    "Traveling",
+    "Cooking"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,9 +29,14 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
-  year = 2018
+  course = "Bachelor in Biology"
+  institution = "University of Mons, Belgium"
+  year = 2020
+
+[[education.courses]]
+  course = "Scientific and Mathematical cursus"
+  institution = "Athénée Provinciale Mixte Warocqué Morlanwelz (APMW)"
+  year = 2017
 
 +++
 
