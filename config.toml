@@ -38,7 +38,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Your details.
   name = "Victoria Fragapane"
@@ -49,11 +49,11 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Mons", url = "http://www.umons.ac.be" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "static/img/ avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Victoria.FRAGAPANE@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0XX.XX.XX.XX"
+  phone = "+32/472.39.86.50"
   skype = ""
   telegram = ""
 

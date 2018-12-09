@@ -42,4 +42,8 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+My name is Fragapane Victoria. I'm 19 years old and I live in Belgium. I am student at the University of Mons in Belgium and I do my second year of my bachelor in Biology. 
+
+During my high school, I went to APMW in Morlanwelz and I did a cursus based on Mathematics and Sciences. I was graduated on June 2017.
+
+Later I have for project to be a teacher of Biology in high school.
