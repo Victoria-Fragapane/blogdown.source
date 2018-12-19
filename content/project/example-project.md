@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2018-09-24"
+date = "2018-12-19"
 
 # Project title.
-title = "My project"
+title = "Premier projet"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Apprentissage SDD"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "Svbox.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,11 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
+image = "ordi.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+Durant cette année, nous avons appris beaucoup de choses.
+La première chose que nous avons appris était de réaliser des graphiques de différents types.
+Nous avons ensuite appris à créer un site internet et donc le site présent ici.
+Les tests statistiques ont aussi été vu avant de comprendre les relations entre plusieurs variables.
