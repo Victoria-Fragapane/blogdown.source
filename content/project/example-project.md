@@ -27,7 +27,9 @@ image = "ordi.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Durant cette année, nous avons appris beaucoup de choses.
+Durant cette année, nous avons appris beaucoup de choses :
+
 La première chose que nous avons appris était de réaliser des graphiques de différents types.
 Nous avons ensuite appris à créer un site internet et donc le site présent ici.
 Les tests statistiques ont aussi été vu avant de comprendre les relations entre plusieurs variables.
+Faire une analyse critique correct a aussi été vu.
